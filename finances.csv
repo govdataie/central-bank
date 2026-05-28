@@ -1,0 +1,372 @@
+source,metric,sub_metric,amount,currency,pages,notes
+ar2024,income,interest_income,4726620,EUR_000,106,Profit and Loss Account in annual report
+ar2024,income,interest_expense,-4710068,EUR_000,106,Profit and Loss Account in annual report
+ar2024,income,net_interest_income,16552,EUR_000,106,Profit and Loss Account in annual report
+ar2024,income,net_realised_gains_from_financial_operations,75830,EUR_000,106,Profit and Loss Account in annual report
+ar2024,income,write_downs_on_financial_assets,-33498,EUR_000,106,Profit and Loss Account in annual report
+ar2024,income,transfer_from_general_risk_provision,795384,EUR_000,106,Profit and Loss Account in annual report
+ar2024,income,net_result_of_financial_operations,837716,EUR_000,106,Profit and Loss Account in annual report
+ar2024,income,fees_and_commissions,2109,EUR_000,106,Profit and Loss Account in annual report
+ar2024,income,equity_instruments_and_participating_interests,2668,EUR_000,106,Profit and Loss Account in annual report
+ar2024,income,net_result_of_pooling_monetary_income,-724724,EUR_000,106,Profit and Loss Account in annual report
+ar2024,income,funding_levy,237672,EUR_000,106,Profit and Loss Account in annual report
+ar2024,income,other_net_income,16254,EUR_000,106,Profit and Loss Account in annual report
+ar2024,income,total_net_income,388247,EUR_000,106,Profit and Loss Account in annual report
+ar2024,expenditure,net_staff_expenses,-239921,EUR_000,106,Profit and Loss Account in annual report
+ar2024,expenditure,other_operating_expenses,-107693,EUR_000,106,Profit and Loss Account in annual report
+ar2024,expenditure,unrealised_loss_on_investment_property,-7000,EUR_000,106,Profit and Loss Account in annual report
+ar2024,expenditure,depreciation,-28761,EUR_000,106,Profit and Loss Account in annual report
+ar2024,expenditure,currency_production_raw_materials,-4872,EUR_000,106,Profit and Loss Account in annual report
+ar2024,expenditure,total,-388247,EUR_000,106,Profit and Loss Account in annual report
+ar2024,surplus,profit_for_the_year,0,EUR_000,106,Profit and Loss Account in annual report
+ar2024,surplus,surplus_income_payable_to_exchequer,0,EUR_000,106,Profit and Loss Account in annual report
+ar2024,balance_sheet,total_assets,179094322,EUR_000,107,Balance Sheet in annual report
+ar2024,balance_sheet,capital_and_reserves,6271208,EUR_000,108,Balance Sheet in annual report
+ar2024,staff,fte_at_year_end,2263,count,,Note 8 Staff Numbers FTE at 31 December in annual report
+ar2023,income,interest_income,4323150,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,income,interest_expense,-4535740,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,income,net_interest_income,-212590,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,income,net_realised_gains_from_financial_operations,1043356,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,income,write_downs_on_financial_assets,-41393,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,income,transfer_from_general_risk_provision,131934,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,income,net_result_of_financial_operations,1133897,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,income,fees_and_commissions,4488,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,income,equity_instruments_and_participating_interests,2978,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,income,net_result_of_pooling_monetary_income,-640449,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,income,funding_levy,205017,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,income,other_net_income,17645,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,income,total_net_income,510986,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,expenditure,net_staff_expenses,-213809,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,expenditure,other_operating_expenses,-96920,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,expenditure,unrealised_loss_on_investment_property,-18229,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,expenditure,impairment_charge,-156858,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,expenditure,depreciation,-20890,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,expenditure,currency_production_raw_materials,-4280,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,expenditure,total,-510986,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,surplus,profit_for_the_year,0,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,surplus,surplus_income_payable_to_exchequer,0,EUR_000,106,Profit and Loss Account comparative in annual report
+ar2023,balance_sheet,total_assets,184564764,EUR_000,107,Balance Sheet comparative in annual report
+ar2023,balance_sheet,capital_and_reserves,6204498,EUR_000,108,Balance Sheet comparative in annual report
+ar2023,staff,fte_at_year_end,2234,count,,Note 8 Staff Numbers FTE at 31 December in annual report
+ar2022,income,interest_income,1110015,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,income,interest_expense,-443984,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,income,net_interest_income,666031,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,income,net_realised_gains_from_financial_operations,1463678,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,income,write_downs_on_financial_assets_and_positions,-115608,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,income,transfer_to_provisions,-1199189,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,income,net_result_of_financial_operations_write_downs_and_provisions,148881,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,income,income_from_fees_and_commissions,3980,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,income,income_from_equity_shares_and_participating_interests,3686,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,income,net_result_of_pooling_of_monetary_income,-323160,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,income,other_net_income,417280,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,income,funding_levy_income,199118,EUR_000,96,Subcomponent of other net income in annual report
+ar2022,income,other,218162,EUR_000,96,Subcomponent of other net income in annual report
+ar2022,income,total_net_income,916698,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,expenditure,staff_expenses,-244942,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,expenditure,other_operating_expenses,-77807,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,expenditure,depreciation,-13080,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,expenditure,currency_production_raw_materials,-5863,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,expenditure,total,-341692,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,surplus,profit_before_unrealised_gain_movements_actuarial_gain_and_appropriation_of_profit,575006,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,surplus,net_movement_in_unrealised_gains,-2286492,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,surplus,transfers_to_revaluation_accounts,2286492,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,surplus,actuarial_gain_on_pension_scheme,643642,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,surplus,transfer_of_retained_profit_to_general_reserve,-718527,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,surplus,surplus_income_payable_to_exchequer,500121,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2022,balance_sheet,total_assets,194850069,EUR_000,97,Balance Sheet in annual report
+ar2022,balance_sheet,provisions,3003794,EUR_000,98,Balance Sheet in annual report
+ar2022,balance_sheet,revaluation_accounts,1889563,EUR_000,98,Balance Sheet in annual report
+ar2022,balance_sheet,capital_and_reserves,6218333,EUR_000,98,Balance Sheet in annual report
+ar2021,income,interest_income,1017413,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,income,interest_expense,-214019,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,income,net_interest_income,803394,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,income,net_realised_gains_from_financial_operations,1273644,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,income,write_downs_on_financial_assets_and_positions,-13054,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,income,transfer_to_provisions,-502214,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,income,net_result_of_financial_operations_write_downs_and_provisions,758376,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,income,income_from_fees_and_commissions,3258,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,income,income_from_equity_shares_and_participating_interests,14385,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,income,net_result_of_pooling_of_monetary_income,-166015,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,income,other_net_income,264182,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,income,funding_levy_income,192001,EUR_000,96,Subcomponent of other net income in annual report
+ar2021,income,other,72181,EUR_000,96,Subcomponent of other net income in annual report
+ar2021,income,total_net_income,1677580,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,expenditure,staff_expenses,-255800,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,expenditure,other_operating_expenses,-77429,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,expenditure,depreciation,-15033,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,expenditure,currency_production_raw_materials,-7851,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,expenditure,total,-356113,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,surplus,profit_before_unrealised_gain_movements_actuarial_gain_and_appropriation_of_profit,1321467,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,surplus,net_movement_in_unrealised_gains,-1662206,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,surplus,transfers_to_revaluation_accounts,1662206,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,surplus,actuarial_gain_on_pension_scheme,261851,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,surplus,transfer_of_retained_profit_to_general_reserve,-515745,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,surplus,surplus_income_payable_to_exchequer,1067573,EUR_000,96,Profit and Loss and Appropriation Account in annual report
+ar2021,balance_sheet,total_assets,204166476,EUR_000,97,Balance Sheet in annual report
+ar2021,balance_sheet,provisions,1806231,EUR_000,98,Balance Sheet in annual report
+ar2021,balance_sheet,revaluation_accounts,4176055,EUR_000,98,Balance Sheet in annual report
+ar2021,balance_sheet,capital_and_reserves,5499837,EUR_000,98,Balance Sheet in annual report
+ar2020,income,interest_income,946432,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,income,interest_expense,-60265,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,income,net_interest_income,886167,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,income,net_realised_gains_from_financial_operations,652206,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,income,write_downs_on_financial_assets_and_positions,-131121,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,income,transfer_to_provisions,-398447,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,income,net_result_of_financial_operations_write_downs_and_provisions,122638,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,income,income_from_fees_and_commissions,3262,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,income,income_from_equity_shares_and_participating_interests,37122,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,income,net_result_of_pooling_of_monetary_income,-80742,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,income,other_net_income,201024,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,income,funding_levy_income,174401,EUR_000,153,Subcomponent of other net income in annual report comparative
+ar2020,income,other,26623,EUR_000,153,Subcomponent of other net income in annual report comparative
+ar2020,income,total_net_income,1169471,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,expenditure,staff_expenses,-232122,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,expenditure,other_operating_expenses,-81972,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,expenditure,depreciation,-14609,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,expenditure,currency_production_raw_materials,-11159,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,expenditure,total,-339862,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,surplus,profit_before_unrealised_gain_movements_actuarial_loss_and_appropriation_of_profit,829609,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,surplus,net_movement_in_unrealised_gains,-240523,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,surplus,transfers_to_revaluation_accounts,240523,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,surplus,actuarial_loss_on_pension_scheme,-216134,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,surplus,transfer_of_retained_profit_to_general_reserve,-163906,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,surplus,transfer_from_reserves,216134,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,surplus,surplus_income_payable_to_exchequer,665703,EUR_000,153,Profit and Loss and Appropriation Account comparative in annual report
+ar2020,balance_sheet,total_assets,141489725,EUR_000,153,Balance Sheet in annual report
+ar2020,balance_sheet,provisions,1304420,EUR_000,154,Balance Sheet in annual report
+ar2020,balance_sheet,revaluation_accounts,5838261,EUR_000,154,Balance Sheet in annual report
+ar2020,balance_sheet,capital_and_reserves,4984092,EUR_000,154,Balance Sheet in annual report
+ar2019,income,interest_income,1004580,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,income,interest_expense,-39511,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,income,net_interest_income,965069,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,income,net_realised_gains_from_financial_operations,1743543,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,income,write_downs_on_financial_assets_and_positions,-1937,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,income,transfer_to_provisions,-104186,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,income,net_result_of_financial_operations_write_downs_and_provisions,1637420,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,income,income_from_fees_and_commissions,2790,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,income,income_from_equity_shares_and_participating_interests,33065,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,income,net_result_of_pooling_of_monetary_income,32622,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,income,other_net_income,188419,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,income,funding_levy_income,160051,EUR_000,179,Subcomponent of other net income in annual report
+ar2019,income,other,28368,EUR_000,179,Subcomponent of other net income in annual report
+ar2019,income,total_net_income,2859385,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,expenditure,staff_expenses,-197622,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,expenditure,other_operating_expenses,-84151,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,expenditure,depreciation,-16131,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,expenditure,currency_production_raw_materials,-1954,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,expenditure,total,-299858,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,surplus,profit_before_unrealised_gain_movements_actuarial_loss_and_appropriation_of_profit,2559527,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,surplus,net_movement_in_unrealised_gains,-306393,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,surplus,transfers_to_revaluation_accounts,306393,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,surplus,actuarial_loss_on_pension_scheme,-223710,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,surplus,transfer_of_retained_loss_to_general_reserve,-285369,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,surplus,surplus_income_payable_to_exchequer,2050448,EUR_000,179,Profit and Loss and Appropriation Account in annual report
+ar2019,balance_sheet,total_assets,116376308,EUR_000,180,Balance Sheet in annual report
+ar2019,balance_sheet,provisions,907840,EUR_000,181,Balance Sheet in annual report
+ar2019,balance_sheet,revaluation_accounts,6078784,EUR_000,181,Balance Sheet in annual report
+ar2019,balance_sheet,capital_and_reserves,5036299,EUR_000,181,Balance Sheet in annual report
+ar2018,income,interest_income,1090866,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,income,interest_expense,-37415,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,income,net_interest_income,1053451,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,income,net_realised_gains_from_financial_operations,2255242,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,income,write_downs_on_financial_assets_and_positions,-29870,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,income,transfer_to_provisions,-180455,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,income,net_result_of_financial_operations_write_downs_and_provisions,2044917,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,income,income_from_fees_and_commissions,3115,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,income,income_from_equity_shares_and_participating_interests,26810,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,income,net_result_of_pooling_of_monetary_income,5260,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,income,other_net_income,149081,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,income,funding_levy_income,145015,EUR_000,179,Subcomponent of other net income in annual report comparative
+ar2018,income,other,4066,EUR_000,179,Subcomponent of other net income in annual report comparative
+ar2018,income,total_net_income,3282634,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,expenditure,staff_expenses,-183174,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,expenditure,other_operating_expenses,-96433,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,expenditure,depreciation,-16770,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,expenditure,currency_production_raw_materials,-3422,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,expenditure,total,-299799,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,surplus,profit_before_unrealised_gain_movements_actuarial_loss_and_appropriation_of_profit,2982835,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,surplus,net_movement_in_unrealised_gains,-2648801,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,surplus,transfers_to_revaluation_accounts,2648801,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,surplus,actuarial_loss_on_pension_scheme,-33911,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,surplus,transfer_of_retained_profit_to_general_reserve,-564104,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,surplus,surplus_income_payable_to_exchequer,2384820,EUR_000,179,Profit and Loss and Appropriation Account comparative in annual report
+ar2018,balance_sheet,total_assets,97838250,EUR_000,180,Balance Sheet in annual report
+ar2018,balance_sheet,provisions,808102,EUR_000,181,Balance Sheet in annual report
+ar2018,balance_sheet,revaluation_accounts,6385177,EUR_000,181,Balance Sheet in annual report
+ar2018,balance_sheet,capital_and_reserves,4750925,EUR_000,181,Balance Sheet in annual report
+ar2017,income,interest_income,1123491,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,income,interest_expense,-68199,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,income,net_interest_income,1055292,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,income,net_realised_gains_from_financial_operations,1953494,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,income,write_downs_on_financial_assets_and_positions,-7637,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,income,transfer_to_provisions,-296521,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,income,net_result_of_financial_operations_write_downs_and_provisions,1649336,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,income,income_from_fees_and_commissions,2562,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,income,income_from_equity_shares_and_participating_interests,23179,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,income,net_result_of_pooling_of_monetary_income,24992,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,income,other_net_income,149629,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,income,total_net_income,2904990,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,expenditure,staff_expenses,-171655,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,expenditure,other_operating_expenses,-85351,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,expenditure,depreciation,-14945,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,expenditure,banknote_raw_materials,-4472,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,expenditure,total,-276423,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,surplus,profit_before_unrealised_gain_movements_actuarial_gain_loss_and_appropriation_of_profit,2628567,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,surplus,net_movement_in_unrealised_gains,-1853152,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,surplus,transfers_to_revaluation_accounts,1853152,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,surplus,actuarial_gain_on_pension_scheme,60577,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,surplus,transfer_to_general_reserve,-587832,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,surplus,surplus_income_payable_to_exchequer,2101312,EUR_000,153,Profit and Loss and Appropriation Account in annual report
+ar2017,balance_sheet,total_assets,90317913,EUR_000,154,Balance Sheet in annual report
+ar2017,balance_sheet,provisions,627840,EUR_000,155,Balance Sheet in annual report
+ar2017,balance_sheet,revaluation_accounts,9033978,EUR_000,155,Balance Sheet in annual report
+ar2017,balance_sheet,capital_and_reserves,4186816,EUR_000,155,Balance Sheet in annual report
+ar2016,income,interest_income,1186138,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,income,interest_expense,-27140,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,income,net_interest_income,1158998,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,income,net_realised_gains_from_financial_operations,1399646,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,income,write_downs_on_financial_assets_and_positions,-70,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,income,transfer_to_provisions,-145667,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,income,net_result_of_financial_operations_write_downs_and_provisions,1253909,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,income,income_from_fees_and_commissions,2184,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,income,income_from_equity_shares_and_participating_interests,22699,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,income,net_result_of_pooling_of_monetary_income,2499,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,income,other_income,88110,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,income,total_net_income,2528399,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,expenditure,staff_expenses,-145907,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,expenditure,other_operating_expenses,-72584,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,expenditure,depreciation,-10776,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,expenditure,banknote_raw_materials,-4176,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,expenditure,total,-233443,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,surplus,profit_before_unrealised_gains_actuarial_loss_gain_and_appropriation_of_profit,2294956,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,surplus,net_movement_in_unrealised_gains,68102,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,surplus,transfers_to_revaluation_accounts,-68102,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,surplus,actuarial_loss_on_pension_scheme,-172940,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,surplus,transfer_to_general_reserve,-285791,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,surplus,surplus_income_payable_to_exchequer,1836225,EUR_000,108,Profit and Loss and Appropriation Account comparative in annual report
+ar2016,balance_sheet,total_assets,82786001,EUR_000,109,Balance Sheet comparative in annual report
+ar2016,balance_sheet,provisions,333243,EUR_000,110,Balance Sheet comparative in annual report
+ar2016,balance_sheet,revaluation_accounts,10887130,EUR_000,110,Balance Sheet comparative in annual report
+ar2016,balance_sheet,capital_and_reserves,3598984,EUR_000,110,Balance Sheet comparative in annual report
+ar2015,income,interest_income,1221930,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,income,interest_expense,-14360,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,income,net_interest_income,1207570,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,income,net_realised_gains_from_financial_operations,1097594,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,income,write_downs_on_financial_assets_and_positions,-745,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,income,transfer_from_provisions,86763,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,income,net_result_of_financial_operations_write_downs_and_provisions,1183612,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,income,income_from_fees_and_commissions,2092,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,income,income_from_equity_shares_and_participating_interests,18270,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,income,net_result_of_pooling_of_monetary_income,-1634,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,income,other_income,66516,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,income,total_net_income,2476426,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,expenditure,staff_expenses,-148725,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,expenditure,other_operating_expenses,-64949,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,expenditure,depreciation,-10636,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,expenditure,banknote_raw_materials,-5983,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,expenditure,total,-230293,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,surplus,profit_before_unrealised_gains_actuarial_loss_gain_and_appropriation_of_profit,2246133,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,surplus,net_movement_in_unrealised_gains,1207811,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,surplus,transfers_to_revaluation_accounts,-1207811,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,surplus,actuarial_gain_on_pension_scheme,181059,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,surplus,transfer_to_general_reserve,-631980,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,surplus,surplus_income_payable_to_exchequer,1795212,EUR_000,108,Profit and Loss and Appropriation Account comparative in ar2016 annual report
+ar2015,balance_sheet,total_assets,77235378,EUR_000,109,Balance Sheet comparative in ar2016 annual report
+ar2015,balance_sheet,provisions,189553,EUR_000,110,Balance Sheet comparative in ar2016 annual report
+ar2015,balance_sheet,revaluation_accounts,10819028,EUR_000,110,Balance Sheet comparative in ar2016 annual report
+ar2015,balance_sheet,capital_and_reserves,3313193,EUR_000,110,Balance Sheet comparative in ar2016 annual report
+ar2014,income,net_interest_income,1422200,EUR_000,98,Financial Results summary in annual report
+ar2014,income,net_result_of_financial_operations_write_downs_and_provisions,833300,EUR_000,99,Financial Results summary in annual report
+ar2014,expenditure,total_operating_costs,-216400,EUR_000,100,Financial Results summary in annual report
+ar2014,surplus,surplus_income_payable_to_exchequer,1708800,EUR_000,100,Financial Results summary in annual report
+ar2014,balance_sheet,total_assets,81300000,EUR_000,100,Financial Results summary in annual report
+ar2013,income,net_interest_income,1546721,EUR_000,100,Profit and Loss and Appropriation Account in annual report
+ar2013,income,net_realised_gains_from_financial_operations,54624,EUR_000,100,Profit and Loss and Appropriation Account in annual report
+ar2013,income,write_downs_on_financial_assets_and_positions,-17014,EUR_000,100,Profit and Loss and Appropriation Account in annual report
+ar2013,income,provisions,31600,EUR_000,100,Profit and Loss and Appropriation Account in annual report
+ar2013,income,net_result_of_financial_operations_write_downs_and_provisions,69210,EUR_000,100,Profit and Loss and Appropriation Account in annual report
+ar2013,income,total_net_income,1725422,EUR_000,100,Profit and Loss and Appropriation Account in annual report
+ar2013,expenditure,staff_expenses,-120519,EUR_000,100,Profit and Loss and Appropriation Account in annual report
+ar2013,expenditure,other_operating_expenses,-69941,EUR_000,100,Profit and Loss and Appropriation Account in annual report
+ar2013,expenditure,depreciation,-13347,EUR_000,100,Profit and Loss and Appropriation Account in annual report
+ar2013,expenditure,banknote_raw_materials,-3478,EUR_000,100,Profit and Loss and Appropriation Account in annual report
+ar2013,expenditure,total,-207285,EUR_000,100,Profit and Loss and Appropriation Account in annual report
+ar2013,surplus,profit_before_unrealised_gains_and_appropriation_of_profit,1518137,EUR_000,100,Profit and Loss and Appropriation Account in annual report
+ar2013,surplus,actuarial_gain_on_pension_scheme,21214,EUR_000,100,Profit and Loss and Appropriation Account in annual report
+ar2013,surplus,transfer_to_general_reserve,-327241,EUR_000,100,Profit and Loss and Appropriation Account in annual report
+ar2013,surplus,surplus_income_payable_to_exchequer,1212110,EUR_000,100,Profit and Loss and Appropriation Account in annual report
+ar2013,balance_sheet,total_assets,108110386,EUR_000,101,Balance Sheet in annual report
+ar2013,balance_sheet,provisions,379963,EUR_000,102,Balance Sheet in annual report
+ar2013,balance_sheet,revaluation_accounts,3262367,EUR_000,102,Balance Sheet in annual report
+ar2013,balance_sheet,capital_and_reserves,2436741,EUR_000,102,Balance Sheet in annual report
+ar2012,income,net_result_of_financial_operations_write_downs_and_provisions,-101647,EUR_000,104,Profit and Loss and Appropriation Account in annual report
+ar2012,income,total_net_income,1615153,EUR_000,104,Profit and Loss and Appropriation Account in annual report
+ar2012,expenditure,staff_expenses,-105435,EUR_000,104,Profit and Loss and Appropriation Account in annual report
+ar2012,expenditure,other_operating_expenses,-57220,EUR_000,104,Profit and Loss and Appropriation Account in annual report
+ar2012,expenditure,depreciation,-11430,EUR_000,104,Profit and Loss and Appropriation Account in annual report
+ar2012,expenditure,banknote_raw_materials,-3676,EUR_000,104,Profit and Loss and Appropriation Account in annual report
+ar2012,expenditure,total,-177761,EUR_000,104,Profit and Loss and Appropriation Account in annual report
+ar2012,surplus,profit_before_unrealised_gains_and_appropriation_of_profit,1437392,EUR_000,104,Profit and Loss and Appropriation Account in annual report
+ar2012,surplus,actuarial_loss_on_pension_scheme,-73340,EUR_000,104,Profit and Loss and Appropriation Account in annual report
+ar2012,surplus,transfer_to_general_reserve,-216424,EUR_000,104,Profit and Loss and Appropriation Account in annual report
+ar2012,surplus,surplus_income_payable_to_exchequer,1147628,EUR_000,104,Profit and Loss and Appropriation Account in annual report
+ar2012,balance_sheet,total_assets,137485816,EUR_000,105,Balance Sheet in annual report
+ar2012,balance_sheet,provisions,417141,EUR_000,106,Balance Sheet in annual report
+ar2012,balance_sheet,revaluation_accounts,334798,EUR_000,106,Balance Sheet in annual report
+ar2012,balance_sheet,capital_and_reserves,2109500,EUR_000,106,Balance Sheet in annual report
+ar2011,income,total_net_income,1383821,EUR_000,104,Profit and Loss and Appropriation Account comparative in ar2012 annual report
+ar2011,expenditure,staff_expenses,-102753,EUR_000,104,Profit and Loss and Appropriation Account comparative in ar2012 annual report
+ar2011,expenditure,other_operating_expenses,-68146,EUR_000,104,Profit and Loss and Appropriation Account comparative in ar2012 annual report
+ar2011,expenditure,depreciation,-9272,EUR_000,104,Profit and Loss and Appropriation Account comparative in ar2012 annual report
+ar2011,expenditure,banknote_raw_materials,-3403,EUR_000,104,Profit and Loss and Appropriation Account comparative in ar2012 annual report
+ar2011,expenditure,total,-183574,EUR_000,104,Profit and Loss and Appropriation Account comparative in ar2012 annual report
+ar2011,surplus,profit_before_unrealised_gains_and_appropriation_of_profit,1200247,EUR_000,104,Profit and Loss and Appropriation Account comparative in ar2012 annual report
+ar2011,surplus,actuarial_loss_on_pension_scheme,-71868,EUR_000,104,Profit and Loss and Appropriation Account comparative in ar2012 annual report
+ar2011,surplus,transfer_to_general_reserve,-170036,EUR_000,104,Profit and Loss and Appropriation Account comparative in ar2012 annual report
+ar2011,surplus,surplus_income_payable_to_exchequer,958343,EUR_000,104,Profit and Loss and Appropriation Account comparative in ar2012 annual report
+ar2011,balance_sheet,total_assets,176246643,EUR_000,105,Balance Sheet comparative in ar2012 annual report
+ar2011,balance_sheet,provisions,317765,EUR_000,106,Balance Sheet comparative in ar2012 annual report
+ar2011,balance_sheet,revaluation_accounts,302651,EUR_000,106,Balance Sheet comparative in ar2012 annual report
+ar2011,balance_sheet,capital_and_reserves,1893076,EUR_000,106,Balance Sheet comparative in ar2012 annual report
+ar2010,income,total_net_income,971747,EUR_000,83,Profit and Loss and Appropriation Account in annual report
+ar2010,expenditure,staff_expenses,-85937,EUR_000,83,Profit and Loss and Appropriation Account in annual report
+ar2010,expenditure,other_operating_expenses,-33529,EUR_000,83,Profit and Loss and Appropriation Account in annual report
+ar2010,expenditure,depreciation,-8393,EUR_000,83,Profit and Loss and Appropriation Account in annual report
+ar2010,expenditure,banknote_raw_materials,-3003,EUR_000,83,Profit and Loss and Appropriation Account in annual report
+ar2010,expenditure,total,-130862,EUR_000,83,Profit and Loss and Appropriation Account in annual report
+ar2010,surplus,profit_before_unrealised_gains_and_appropriation_of_profit,840885,EUR_000,83,Profit and Loss and Appropriation Account in annual report
+ar2010,surplus,actuarial_gain_on_pension_scheme,21705,EUR_000,83,Profit and Loss and Appropriation Account in annual report
+ar2010,surplus,transfer_to_general_reserve,-191561,EUR_000,83,Profit and Loss and Appropriation Account in annual report
+ar2010,surplus,surplus_income_payable_to_exchequer,671029,EUR_000,83,Profit and Loss and Appropriation Account in annual report
+ar2010,balance_sheet,total_assets,204488961,EUR_000,84,Balance Sheet in annual report
+ar2010,balance_sheet,provisions,36178,EUR_000,85,Balance Sheet in annual report
+ar2010,balance_sheet,revaluation_accounts,230271,EUR_000,85,Balance Sheet in annual report
+ar2010,balance_sheet,capital_and_reserves,1723040,EUR_000,85,Balance Sheet in annual report
+ar2009,income,total_net_income,1053528,EUR_000,69,Profit and Loss and Appropriation Account in annual report
+ar2009,expenditure,staff_expenses,-80146,EUR_000,69,Profit and Loss and Appropriation Account in annual report
+ar2009,expenditure,other_operating_expenses,-29189,EUR_000,69,Profit and Loss and Appropriation Account in annual report
+ar2009,expenditure,depreciation,-7741,EUR_000,69,Profit and Loss and Appropriation Account in annual report
+ar2009,expenditure,banknote_raw_materials,-2647,EUR_000,69,Profit and Loss and Appropriation Account in annual report
+ar2009,expenditure,total,-119723,EUR_000,69,Computed from expense lines in annual report
+ar2009,surplus,profit_before_unrealised_gains_and_appropriation_of_profit,933805,EUR_000,69,Profit and Loss and Appropriation Account in annual report
+ar2009,surplus,actuarial_gain_on_pension_scheme,27988,EUR_000,69,Profit and Loss and Appropriation Account in annual report
+ar2009,surplus,transfer_to_general_reserve,-216297,EUR_000,69,Profit and Loss and Appropriation Account in annual report
+ar2009,surplus,surplus_income_payable_to_exchequer,745496,EUR_000,69,Profit and Loss and Appropriation Account in annual report
+ar2009,balance_sheet,total_assets,124896455,EUR_000,70,Balance Sheet in annual report
+ar2009,balance_sheet,provisions,52015,EUR_000,71,Balance Sheet in annual report
+ar2009,balance_sheet,revaluation_accounts,205193,EUR_000,71,Balance Sheet in annual report
+ar2009,balance_sheet,capital_and_reserves,1534868,EUR_000,71,Balance Sheet in annual report
+ar2008,income,total_net_income,484084,EUR_000,51,Profit and Loss and Appropriation Account in annual report
+ar2008,expenditure,staff_expenses,-81837,EUR_000,51,Profit and Loss and Appropriation Account in annual report
+ar2008,expenditure,other_operating_expenses,-28747,EUR_000,51,Profit and Loss and Appropriation Account in annual report
+ar2008,expenditure,depreciation,-6576,EUR_000,51,Profit and Loss and Appropriation Account in annual report
+ar2008,expenditure,banknote_raw_materials,-2712,EUR_000,51,Profit and Loss and Appropriation Account in annual report
+ar2008,expenditure,total,-119872,EUR_000,51,Computed from expense lines in annual report
+ar2008,surplus,profit_before_unrealised_gains_and_appropriation_of_profit,364212,EUR_000,51,Profit and Loss and Appropriation Account in annual report
+ar2008,surplus,actuarial_gain_on_pension_scheme,76405,EUR_000,51,Profit and Loss and Appropriation Account in annual report
+ar2008,surplus,transfer_to_general_reserve,-150563,EUR_000,51,Derived from profit appropriation in annual report
+ar2008,surplus,surplus_income_payable_to_exchequer,290054,EUR_000,51,Profit and Loss and Appropriation Account in annual report
+ar2008,balance_sheet,total_assets,116131828,EUR_000,52,Balance Sheet in annual report
+ar2008,balance_sheet,provisions,77182,EUR_000,53,Balance Sheet in annual report
+ar2008,balance_sheet,revaluation_accounts,241897,EUR_000,53,Balance Sheet in annual report
+ar2008,balance_sheet,capital_and_reserves,1315987,EUR_000,53,Balance Sheet in annual report

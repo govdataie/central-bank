@@ -1,0 +1,13 @@
+{
+  "id": "central_bank",
+  "display": "Central Bank of Ireland",
+  "ticker": "CBI",
+  "kind": "agency",
+  "sector": "economy",
+  "type": "public",
+  "url": "https://www.centralbank.ie",
+  "companyNumber": null,
+  "charityNumber": null,
+  "country": "IE",
+  "isPublic": false
+}
